@@ -14,3 +14,5 @@
 
 ## hoe gaat het
 >>>>>>> d5ddf6edd07aa1a470b57456721ffa50c6180e3e
+
+![tomaat] (tomaat.jpg)
